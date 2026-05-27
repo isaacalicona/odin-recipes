@@ -1,0 +1,1 @@
+This project is a basic recipe website. The goal of this project is to practice all the HTMl knowledge I have acquired. Once I finish I will be able to build my own basic website.
